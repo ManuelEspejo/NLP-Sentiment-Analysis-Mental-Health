@@ -44,13 +44,11 @@ Or using the [![Open in Colab](https://colab.research.google.com/assets/colab-ba
 
 ## Dataset
 
-The dataset used in this project consists of short text messages labeled as either mental health-related (1) or not considered (0). The dataset has been downloaded from kaggle.
-
-You can download it [here](https://www.kaggle.com/datasets/reihanenamdari/mental-health-corpus) if you want (kaggle account nedded), or directly download for this repo. The dataset has been uploaded compressed in a zip file without modifications, as we can download it from kaggle.
+The dataset used in this project consists of short text messages labeled as either mental health-related (1) or not considered (0). The dataset has been **downloaded from kaggle**. You can download it from [here](https://www.kaggle.com/datasets/reihanenamdari/mental-health-corpus).
 
 ## Models
 
-We experiment with various machine learning models, including Dense model, Convolutional Neural Networks and LSTM, to perform sentiment analysis. The notebook explores the implementation and comparison of these models for the text binary classification task.
+We experiment with various machine learning models, including **Dense model**, **Convolutional Neural Networks** and **LSTM**, to perform sentiment analysis. The notebook explores the implementation and comparison of these models for the **text binary classification task**.
 
 ## Evaluation
 
